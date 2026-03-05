@@ -1,5 +1,5 @@
 # 💫 About Me:
-I work with C and Python for core logic and backend tasks, and I have hands-on experience in HTML, CSS, and JavaScript for building functional websites. I have developed projects involving computer vision and automation, including integrating Python-based models with web interfaces.<br>
+I work with C++ and Python for core logic and backend tasks, and I have hands-on experience in HTML, CSS, and JavaScript for building functional websites. I have developed projects involving computer vision and automation, including integrating Python-based models with web interfaces.<br>
 
 
 ## 🌐 Socials:
