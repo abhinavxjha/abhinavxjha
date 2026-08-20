@@ -1,6 +1,4 @@
-# 💫 About Me:
-I work with Python and C++ for building data driven applications and core logic, along with HTML, CSS, JavaScript, and Streamlit for developing interactive web applications. I'm passionate about Data Science, Machine Learning, AI, and building practical solutions to real world problems.<br>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1001&pause=1000&width=435&lines=I+work+with+Python+and+C%2B%2B+for+building+data+driven+applications+and+core+logic%2C+along+with+HTML%2C+CSS%2C+JavaScript%2C+and+Streamlit+for+developing+interactive+web+applications.+I'm+passionate+about+Data+Science%2C+Machine+Learning%2C+AI%2C+and+building+practical+solutions+to+real+world+problems.)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xabhinavjha) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iam_abhinavjha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhinavjha505@gmail.com) 
