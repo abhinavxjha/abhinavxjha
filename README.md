@@ -5,8 +5,7 @@
 </picture>
 
 <h2 align="center">
-I work with Python and C++ for building data-driven applications and core logic, along with HTML, CSS, JavaScript, and Streamlit for developing interactive web applications. I'm passionate about Data Science, Machine Learning, AI, and building practical solutions to real-world problems.
-</h2>
+ABHINAV JHA</h2>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xabhinavjha) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iam_abhinavjha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhinavjha505@gmail.com) 
