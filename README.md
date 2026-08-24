@@ -5,31 +5,21 @@
 </div>
 
 
-
-<table border="0" style="border:none;">
-<tr style="border:none;">
-<td width="40%" align="center" style="border:none;">
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode-cropped.svg">
   <source media="(prefers-color-scheme: light)" srcset="light_mode(nondet)-cropped%20(1).svg">
-  <img src="dark_mode-cropped.svg" alt="Abhinav Jha profile">
-</picture>
-
-</td>
-
-<td width="50%" align="center">
+  <img src="dark_mode-cropped.svg" alt="Abhinav Jha profile" width="400">
+</picture>&nbsp;&nbsp;
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode(det)-cropped%20(1).svg">
   <source media="(prefers-color-scheme: light)" srcset="light_mode-cropped.svg">
-  <img src="dark_mode(det)-cropped%20(1).svg" alt="Profile details">
+  <img src="dark_mode(det)-cropped%20(1).svg" alt="Profile details" width="400">
 </picture>
 
-</td>
-</tr>
-</table>
-
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xabhinavjha) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iam_abhinavjha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhinavjha505@gmail.com) 
